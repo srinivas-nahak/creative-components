@@ -1,0 +1,50 @@
+/*Primsy Logo Variant*/
+
+/* .main {
+  margin-top: 70vh;
+} */
+
+.Cursor {
+  position: fixed;
+  width: 20px;
+  height: 20px;
+  background-color: rgb(29, 28, 26, 0.5);
+  pointer-events: none;
+  z-index: 10;
+  transform: translate(-50%, -50%);
+}
+
+.CursorOutline {
+  position: fixed;
+  width: 20px;
+  height: 20px;
+  border: 1.5px dotted var(--primary-dark);
+  pointer-events: none;
+  z-index: 11;
+  transform: translate(-30%, -30%);
+}
+
+/*Circle Variant*/
+
+/* .Cursor {
+  position: fixed;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: var(--primary-dark);
+  pointer-events: none;
+  z-index: 10;
+  transform: translate(-50%, -50%);
+}
+
+.CursorBigger {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgb(29, 28, 26, 0.2);
+  pointer-events: none;
+  z-index: 9;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 15px 10px rgba(0, 0, 0, 0.07);
+} */

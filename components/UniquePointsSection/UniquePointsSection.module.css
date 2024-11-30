@@ -1,0 +1,47 @@
+.unique-points-section {
+  margin: 3rem auto;
+  height: 50vh;
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.unique-points-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+}
+
+.unique-points-circle {
+  width: 7rem;
+  height: 7rem;
+  padding: 1rem;
+  border-radius: 50%;
+  background-color: #efeeee;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.unique-points-section h2 {
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+  width: 20rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 700px) {
+  .unique-points-section {
+    margin: 2rem auto;
+    height: auto;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+  }
+}
