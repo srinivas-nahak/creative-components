@@ -8,7 +8,7 @@ const servicesList: ServiceItemType[] = [
     length: 7,
     description:
       "Your logo is your face to the world. We design logos that's unique, memorable, and captures the essence of your brand. Think of it as your superhero symbol, ready to conquer the market.",
-    imgLink: "https://images.unsplash.com/photo-1709273954172-22f5c735e6fe",
+    imgLink: "/assets/images/pic-1.jpg",
     backgroundColor: "#57BDA8",
   },
   {
@@ -18,7 +18,7 @@ const servicesList: ServiceItemType[] = [
     length: 8,
     description:
       "Forget boring pamphlets. We'll craft stunning, impactful brochures that tell your story in a way that resonates with your audience. Like a love letter to your brand, designed to win hearts and minds.",
-    imgLink: "https://images.unsplash.com/photo-1707343848723-bd87dea7b118",
+    imgLink: "/assets/images/pic-2.jpg",
     backgroundColor: "#5A8CB0",
   },
   {
@@ -35,7 +35,7 @@ const servicesList: ServiceItemType[] = [
     length: 5,
     description:
       "At our core, we specialize in social media management. Through meticulous strategy, we tailor content to your brand's voice, fostering connections with your audience & elevating your brand.",
-    imgLink: "https://images.unsplash.com/photo-1704138160435-bc0848d02813",
+    imgLink: "/assets/images/pic-3.jpg",
     backgroundColor: "#D47E65",
   },
   {
@@ -60,7 +60,7 @@ const servicesList: ServiceItemType[] = [
     ],
     description:
       "Dive into the realm of printable media. With precision and creativity, we craft tangible assets that capture attention, reflect your brand essence, and leave a lasting impression.",
-    imgLink: "https://images.unsplash.com/photo-1707343848723-bd87dea7b118",
+    imgLink: "/assets/images/pic-4.jpg",
     backgroundColor: "#AC8AD9",
   },
   {
@@ -75,7 +75,7 @@ const servicesList: ServiceItemType[] = [
     ],
     description:
       "Your website is your online home. We'll create a user-friendly, visually stunning site that converts visitors into fans, showcasing your awesomeness.",
-    imgLink: "https://images.unsplash.com/photo-1709273954172-22f5c735e6fe",
+    imgLink: "/assets/images/pic-1.jpg",
     backgroundColor: "#C44F6E",
   },
   {
@@ -85,7 +85,7 @@ const servicesList: ServiceItemType[] = [
     length: 6,
     description:
       "We craft captivating narratives and stunning visuals to ensure your brand shines. Whether showcasing luxury real estate or tantalizing cuisine, we guarantee an unforgettable presence.",
-    imgLink: "https://images.unsplash.com/photo-1709287061508-f2de3d8d8418",
+    imgLink: "/assets/images/pic-2.jpg",
     backgroundColor: "#c2b582",
   },
 

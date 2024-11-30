@@ -25,31 +25,31 @@ const ZoomImageSection: React.FC<{ scrollIntoView?: boolean }> = ({
 
   const pictures = [
     {
-      src: "https://images.unsplash.com/photo-1709273954172-22f5c735e6fe",
+      src: "/assets/images/pic-1.jpg",
       scale: scale4,
     },
     {
-      src: "https://images.unsplash.com/photo-1707343848723-bd87dea7b118",
+      src: "/assets/images/pic-2.jpg",
       scale: scale5,
     },
     {
-      src: "https://images.unsplash.com/photo-1704138160435-bc0848d02813",
+      src: "/assets/images/pic-3.jpg",
       scale: scale6,
     },
     {
-      src: "https://images.unsplash.com/photo-1707343848723-bd87dea7b118",
+      src: "/assets/images/pic-4.jpg",
       scale: scale5,
     },
     {
-      src: "https://images.unsplash.com/photo-1709273954172-22f5c735e6fe",
+      src: "/assets/images/pic-1.jpg",
       scale: scale6,
     },
     {
-      src: "https://images.unsplash.com/photo-1709287061508-f2de3d8d8418",
+      src: "/assets/images/pic-2.jpg",
       scale: scale8,
     },
     {
-      src: "https://images.unsplash.com/photo-1709287061441-d9cc9c0d6b28",
+      src: "/assets/images/pic-3.jpg",
       scale: scale9,
     },
   ];
